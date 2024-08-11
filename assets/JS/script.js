@@ -89,7 +89,7 @@ form.addEventListener("submit", (e) => {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Ankit Raj";
+    document.title = "Portfolio | Praveen Sk";
   } else {
     document.title = "Please Come Back!";
   }
